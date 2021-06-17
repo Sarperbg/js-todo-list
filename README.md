@@ -1,2 +1,3 @@
-# js-todo-list
-kodluyoruz front end patika javaScript 2.ödevi
+# Kodluyoruz Front End Challenge Javascript bölümü 2.ödev
+## Javascript ile todo list projesi
+![todo](todo.png)
