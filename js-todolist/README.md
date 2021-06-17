@@ -1,3 +1,3 @@
-# Kodluyoruz Front End Challenge Javascript bölümü 2.ödev
-## Javascript ile todo list projesi
+# Kodluyoruz Front End Challenge JavaScript bölümü 2.ödev
+## JavaScript ile todo list projesi
 ![todo](todo.png)
